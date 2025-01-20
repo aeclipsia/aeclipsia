@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-I'm a passionate **Web Developer** and a hobby **Indie Game Developer** who loves creating projects from web applications to video games. Here's a bit about what I know and the tools I work with.
+I'm a passionate **Web Developer** and a hobby **Indie Game Developer** who loves creating projects from web applications to video games. Here's a bit about what I know and the tools I work with. You could also check out my portfolio!  
+
+[![Portfolio](https://img.shields.io/badge/-Click%20Here!-646CFF?style=for-the-badge)](https://aeclipsia.github.io)
 
 ## 👨‍💻 About Me
 
