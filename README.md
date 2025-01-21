@@ -2,8 +2,6 @@
 
 I'm a passionate **Web Developer** and a hobby **Indie Game Developer** who loves creating projects from web applications to video games. Here's a bit about what I know and the tools I work with. You could also check out my portfolio!  
 
-[![Portfolio](https://img.shields.io/badge/-Click%20Here!-646CFF?style=for-the-badge)](https://aeclipsia.github.io)
-
 ## 👨‍💻 About Me
 
 I'm a **full-stack web developer** and **indie game developer** based in Spain. My passion lies in blending creativity with technology, whether it's building immersive web experiences or crafting fun and engaging video games.
